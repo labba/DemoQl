@@ -1,2 +1,2 @@
-demomake: demo.c 
-gcc -o demo demo.c
+demomake:
+	gcc demo.c -o demo
